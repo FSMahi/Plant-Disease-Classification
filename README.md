@@ -1,1 +1,1 @@
-# Plant-Disease-Classification-using-CNN-and-Transfer-Learning
+# Plant Disease Classification using CNN and Transfer Learning
