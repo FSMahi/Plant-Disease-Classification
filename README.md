@@ -35,7 +35,7 @@ The goal is to compare these models in terms of accuracy, training time, and com
 - The dataset contains images of plant leaves classified into 15 disease categories, including healthy leaves.
 - Data preprocessing includes resizing images to 224x224 pixels, normalization, and data augmentation to improve generalization.
 - The dataset is split into training, validation, and test sets with stratification to maintain class balance.
-
+https://www.kaggle.com/datasets/emmarex/plantdisease
 ---
 
 ## Models
