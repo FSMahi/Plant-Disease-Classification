@@ -80,7 +80,7 @@ The goal is to compare these models in terms of accuracy, training time, and com
 
 | Model          | Test Accuracy | Test Loss | Loss Function           | Trainable Params | Notes                              |
 |----------------|---------------|-----------|------------------------ |------------------|------------------------------------|
-| Custom CNN     | XX%           | X.XXX     | Categorical Crossentropy| X million        | Baseline model                     |
+| Custom CNN     | 85.98%        | 0.5167    | Categorical Crossentropy| 8 million        | Baseline model                     |
 | VGG19          | 95.75%        | 0.1365    | Categorical Crossentropy| ~22 million      | Fine-tuned last conv block         |  
 | MobileNetV2    | 95.29%        | 0.1606    | Categorical Crossentropy| ~3 million       | Lightweight and faster training    |
 | ResNet152      | 72.15%        | 0.8408    | Categorical Crossentropy| ~20 million      | Deep model, fine-tuning last block |
